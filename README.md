@@ -11,3 +11,8 @@ I am an AI engineer. I grew up in a romantic city located in central Vietnam on 
 It is best to contact me by [email](phanben110@gmail.com). I am always open to interesting conversations and collaborations.
 
 ---
+More contact:
+- [Youtube](https://www.youtube.com/channel/UCgXH-yNQBPUkYiKzyBdBudg)
+- [Facebook](https://www.facebook.com/benphan110)
+- [LinkedIn](https://www.linkedin.com/in/benphan110)
+
