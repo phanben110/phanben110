@@ -3,12 +3,13 @@
 <!--
 **phanben110/phanben110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am an AI engineer. I grew up in a dreamy city and located in central Vietnam on the banks of Huong River.
-- 🎓 I'm currently a senior year student at University of Science and Technology - The University of Danang, majoring in Control Engineering and Automation.
-- 🔭 I am also studying and working on machine learning, deep learning.
-- 🤖 I'm a big fan of Robots! I have participated in many robot competitions such as MiniRobocon 2019, Robodnic 2019, ABU Robocon 2020. I really want to create a robot  with artificial intelligence close to human, that's why I decided to focus my research and work in the field of artificial intelligence.
+I'm an AI engineer who grew up in a picturesque city in central Vietnam, located on the banks of the Huong River. I recently graduated from Danang University of Science and Technology, where I majored in Control Engineering and Automation.
 
-It is best to contact me by [email](phanben110@gmail.com). I am always open to interesting conversations and collaborations.
+My current focus is on machine learning and deep learning, and I'm excited about the possibilities they offer for creating intelligent machines. As a big fan of robots, I've participated in several competitions, including domestic and international Robocon events such as ABU Robocon 2020.
+
+In my work, I'm particularly interested in developing robots with AI that can mimic human intelligence. I believe that AI has the potential to revolutionize the way we live and work, and I'm passionate about exploring this field further.
+
+I'm always open to interesting conversations and collaborations, so feel free to reach out to me by email.
 
 ---
 More contact:
