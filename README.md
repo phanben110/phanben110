@@ -3,13 +3,9 @@
 <!--
 **phanben110/phanben110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm an AI engineer who grew up in a picturesque city in central Vietnam, located on the banks of the Huong River. I recently graduated from Danang University of Science and Technology, where I majored in Control Engineering and Automation.
+Greetings! Currently pursuing a master's in Computer Science at NCKU, I focus on AI, Deep Learning, Machine Learning, Edge Computing, and Information Retrieval. Originally from a picturesque city along the Huong River in central Vietnam, I've graduated from Danang University of Science and Technology.
 
-My current focus is on machine learning and deep learning, and I'm excited about the possibilities they offer for creating intelligent machines. As a big fan of robots, I've participated in several competitions, including domestic and international Robocon events such as ABU Robocon 2020.
-
-In my work, I'm particularly interested in developing robots with AI that can mimic human intelligence. I believe that AI has the potential to revolutionize the way we live and work, and I'm passionate about exploring this field further.
-
-I'm always open to interesting conversations and collaborations, so feel free to reach out to me by email.
+I bring experience from participating in the talented AI engineer training program at Vingroup. Passionate about crafting intelligent machines, I've actively participated in domestic and international Robocon events, including ABU Robocon 2020. Eager to explore the transformative potential of AI in revolutionizing our lives, I welcome interesting conversations and collaborations. Feel free to reach out via email.
 
 ---
 More contact:
