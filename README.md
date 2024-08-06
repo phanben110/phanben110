@@ -9,7 +9,5 @@ I bring experience from participating in the talented AI engineer training progr
 
 ---
 More contact:
-- [Youtube](https://www.youtube.com/channel/UCgXH-yNQBPUkYiKzyBdBudg)
-- [Facebook](https://www.facebook.com/benphan110)
 - [LinkedIn](https://www.linkedin.com/in/benphan110)
 
